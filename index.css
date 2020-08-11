@@ -1,0 +1,14 @@
+body{
+    background-color: powderblue;
+}
+.container{
+    text-align: center;
+
+}
+
+user{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
